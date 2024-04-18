@@ -1,0 +1,36 @@
+
+first
+
+- Commands:
+
+    - subCommands
+
+How to install WSL:
+
+    wsl --version
+    wsl --update
+    wsl --install
+    wsl --status
+    wsl --help
+
+How to manage DistroLinux:
+
+    wsl --list --online
+    wsl --list --verbose
+
+    wsl --install <NameDistro>
+    wsl --set-default <Distribution Name>
+        --inbox
+        --no-distribution
+
+    wsl --shutdown
+    wsl --terminate <Distribution Name>
+    wsl --user <Username>
+    <DistributionName> config --default-user <Username>
+
+    wsl ~
+    exit
+
+Bibliografia:
+
+    - https://learn.microsoft.com/es-es/windows/wsl/basic-commands
