@@ -3,3 +3,14 @@ Commands for linux
 
 sudo apt update && sudo apt upgrade
 
+pwd
+
+cd nameFolder
+cd ..
+cd /
+cd ~
+
+ls
+    ls -l
+    ls -a
+    ls -la

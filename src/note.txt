@@ -12,6 +12,7 @@ How to install WSL:
     wsl --install
     wsl --status
     wsl --help
+    wsl --unregister <DistributionName>
 
 How to manage DistroLinux:
 
